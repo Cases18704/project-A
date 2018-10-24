@@ -13,3 +13,4 @@ from turtle import *
 # Text
 write('Congratz!')
 done()
+picture tadata
